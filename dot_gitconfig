@@ -1,0 +1,5 @@
+[core]
+	excludesfile = /Users/pavel/.gitignore
+[user]
+	email = pp.rubyist@icloud.com
+	name = Pavel Paliashak
